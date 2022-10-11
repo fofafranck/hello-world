@@ -30,8 +30,8 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-
-   <h1> Thank you, Happy Learning from Fabrice </h1>
+  <h1> you are on the good way, keep going </h1>
+   <h1> Thank you Guys, Happy Learning from Fabrice </h1>
 
   
 </form>
